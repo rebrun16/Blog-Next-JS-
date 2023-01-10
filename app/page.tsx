@@ -1,8 +1,7 @@
 export default function HomePage() {
   return (
     <div>
-      <div>page</div>
-      <p>Some content</p>
+      <div className="text-4xl">Welcome to the blog</div>
     </div>
   )
 }
